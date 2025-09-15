@@ -33,7 +33,9 @@ bmi-calculator/
 ---
 ##Run the Flask app
 python app.py
+##My ScreenShots
 
+<img width="1693" height="843" alt="Screenshot 2025-09-15 124145" src="https://github.com/user-attachments/assets/67b965c2-3a08-4b79-9087-aca3050fc0a2" />
 
 
 ## ⚙️ Installation & Setup  
@@ -43,9 +45,7 @@ python app.py
 git clone https://github.com/Manikanta-4460/BMI-Calculator
 cd bmi-calculator
 
-##My ScreenShots
 
-<img width="1693" height="843" alt="Screenshot 2025-09-15 124145" src="https://github.com/user-attachments/assets/67b965c2-3a08-4b79-9087-aca3050fc0a2" />
 
 
 
